@@ -4,4 +4,4 @@ A simple modification one recursive image compression bash script to include sta
 
 Before running, make sure you have installed **svgo**, **optipng**, **jpegoptim**.
 
-  [sudo] apt install optipng jpegoptim && [sudo] npm install -g svgo
+  `[sudo] apt install optipng jpegoptim && [sudo] npm install -g svgo`
